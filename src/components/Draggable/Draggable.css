@@ -1,0 +1,11 @@
+.__draggable__{
+    position: fixed;
+    z-index: 10;
+    /* top: 50%;
+    left: 50%;
+    transform: translate3d(-50%,-50%,0); */
+}
+
+.__draggable__ * {
+    user-select: none;
+}

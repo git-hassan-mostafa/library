@@ -1,0 +1,14 @@
+.__side-bar__{
+    top: 0;
+    left: -100%;
+    background-color: red;
+    position: fixed;
+    height: 100vh;
+    max-height: 100vh;
+    overflow: auto;
+    transition: 0.5s;
+}
+
+.__side-bar-open__{
+    left: 0;
+}
